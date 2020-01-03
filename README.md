@@ -1,5 +1,25 @@
 # AngularUniversalNestJS
 
+NestJS + Angular Universal = 😍
+
+## Installation
+
+Run `npm install`.
+
+## NestJS development server
+
+Run `npm run serve` for a dev server. Navigate to `http://localhost:4200/`.
+
+## NestJS deploy
+
+0. Install NodeJS on your server.
+1. Run `npm run build:ssr` to build your app locally.
+2. Copy `package.json` & `dist/` to your server.
+3. Run `npm install` on your server.
+4. Run `node dist/server` on your server.
+
+# Angular
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
 
 ## Development server
