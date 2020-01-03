@@ -1,6 +1,6 @@
 {
   "name": "angular-universal-nest-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yet another Angular Universal & NestJS starter kit",
   "scripts": {
     "ng": "ng",
