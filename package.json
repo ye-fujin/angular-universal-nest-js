@@ -1,0 +1,11 @@
+{
+  "name": "angular-universal-nest-js",
+  "version": "1.0.0",
+  "description": "Yet another Angular Universal + NestJS starter kit",
+  "main": "server/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YeFujin",
+  "license": "ISC"
+}
