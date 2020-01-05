@@ -1,7 +1,17 @@
 {
   "name": "angular-universal-nest-js",
-  "version": "1.0.2",
-  "description": "Yet another Angular Universal & NestJS starter kit",
+  "version": "1.0.3",
+  "description": "Yet another Angular Universal & Nest starter kit",
+  "keywords": [
+    "nest",
+    "angular universal",
+    "angular universal nest starter kit",
+    "starter kit",
+    "javascript",
+    "typescript",
+    "framework",
+    "fullstack"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -16,7 +26,6 @@
     "build:client-and-server-bundles": "ng build --prod && ng run AngularUniversalNestJS:server:production",
     "build-and-serve:ssr": "npm run build:ssr && npm run serve:ssr"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "~8.2.11",
     "@angular/common": "~8.2.11",
